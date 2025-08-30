@@ -33,3 +33,15 @@ Dieses Repository kann genutzt werden, um:
 📧 Kontakt
 
 Für Domain-Anfragen oder Partnerschaften kontaktieren Sie bitte: **domains@biggaga.com**
+
+
+## 🌍 Entdecken Sie BigGaga-Domains in anderen Sprachen
+
+- [English (EN)](https://github.com/BigGagaCom/biggaga-domains-en)
+- [Deutsch (DE)](https://github.com/BigGagaCom/biggaga-domains-de)
+- [Français (FR)](https://github.com/BigGagaCom/biggaga-domains-fr)
+- [Español (ES)](https://github.com/BigGagaCom/biggaga-domains-es)
+- [العربية (AR)](https://github.com/BigGagaCom/biggaga-domains-ar)
+- [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
+- [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
+

@@ -45,3 +45,13 @@ Für Domain-Anfragen oder Partnerschaften kontaktieren Sie bitte: **domains@bigg
 - [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
 - [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
 
+
+## 🌍 Page Links
+
+**Repository:** https://github.com/BigGagaCom/biggaga-domains-de  
+**Website:** https://biggagacom.github.io/biggaga-domains-de/  
+
+- [CSV-Datei](https://biggagacom.github.io/biggaga-domains-de/domains_de.csv)  
+- [JSON-Datei](https://biggagacom.github.io/biggaga-domains-de/domains_de.json)  
+- [RSS-Feed](https://biggagacom.github.io/biggaga-domains-de/biggaga-domains-full-de.rss.xml)  
+
